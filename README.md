@@ -8,9 +8,16 @@ An interactive dashboard designed for a comprehensive analysis of historical tre
 
 ### 🧠 Key Insights from the Dashboard
 Looking at the dashboard charts, here are the most straightforward takeaways:
-1. Out of **6,684 total historical missions**, an impressive **6,107 ended in full success**. This means that **over 91% of all space launches in history succeeded**. Standard failures sit below 7%, while critical failures right on the launchpad (Prelaunch Failure) account for a tiny fraction (0.12%).
-2. The Soviet program (**RVSN USSR**) completely dominated history with a massive volume of **2,476 missions** due to the 20th-century space race. The top most active organizations also include the US Air Force (549), China's CASC (519), and Roscosmos (363).
-3. The "Organizations with Highest Failure Rate" chart highlights entities that suffer from a 100% failure record (e.g., Sandia, ABL SS, or Relativity Space). This proves that entering the aerospace market carries an incredibly high technological barrier and risk of failure.
+
+🚀 Out of **6,684 total historical missions**, an impressive **6,107 ended in full success**. This means that **over 91% of all space launches in history succeeded**. Standard failures sit below 7%, while critical failures right on the launchpad (Prelaunch Failure) account for a tiny fraction (0.12%).
+
+🚀 The United States and Russia remain the historical leaders in the number of space missions, with 2,040 and 1,812 launches respectively. 
+
+🚀 Russia achieved a slightly higher historical mission success rate (94.26%) compared to the United States (89.85%).
+
+🚀 China has completed 568 missions since 1970. The program is growing fast, mainly driven by CASC.
+
+🚀Since 2000, India has been highly active in space, completing 91 missions (mostly by ISRO).
 
 ### 🛠️ ETL Challenges & Data Preparation
 The raw input dataset contained formatting anomalies and unstructured text, which blocked initial attempts at Pivot Table aggregation and timeline building. Below are the key challenges and how they were resolved:
