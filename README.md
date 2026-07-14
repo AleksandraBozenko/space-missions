@@ -55,6 +55,5 @@ A historical log containing status, location, organization, and date details of 
 ## 📁 Repository Structure / Struktura Repozytorium
 
 * `space_missions.xlsx` - The Excel dashboard file.
-* `space_missions_raw.csv` - Raw dataset before the cleansing process.
-* `space_missions_cleaned.csv` - Cleansed and fully normalized space mission dataset
+* `all_space_mission_launches.csv` - Raw dataset.
 * `images/` - Directory containing dashboard screenshots for documentation.
